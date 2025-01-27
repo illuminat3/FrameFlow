@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FrameFlow (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FrameFlow (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
